@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/Calculator/app/src/main/res/drawable/shape_circle.xml" value="0.205" />
         <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/Calculator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/Calculator/app/src/main/res/layout/activity_main2.xml" value="0.25" />
       </map>
     </option>
   </component>
