@@ -12,32 +12,32 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="12,536"
-        android:textColor="?attr/colorOnPrimary"
-        android:textSize="@dimen/textview_text_big"
         android:layout_gravity="end"
-        android:layout_marginEnd="24dp"
         android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
         android:layout_marginBottom="8dp"
-        android:textAlignment="viewEnd"/>
+        android:text="12,536"
+        android:textAlignment="viewEnd"
+        android:textColor="?attr/colorOnPrimary"
+        android:textSize="@dimen/textview_text_big" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="=12,536"
-        android:textSize="@dimen/textview_text_small"
         android:layout_gravity="end"
-        android:layout_marginEnd="24dp"
         android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
         android:layout_marginBottom="8dp"
-        android:textAlignment="viewEnd"/>
+        android:text="=12,536"
+        android:textAlignment="viewEnd"
+        android:textSize="@dimen/textview_text_small" />
 
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="@color/gray_light"
         android:layout_marginStart="24dp"
-        android:layout_marginEnd="24dp"/>
+        android:layout_marginEnd="24dp"
+        android:background="@color/gray_light" />
 
     <TableLayout
         android:layout_width="match_parent"
@@ -250,16 +250,16 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="="
-                    android:textSize="@dimen/button_text_size_big"
-                    android:textColor="?attr/colorOnSecondary"
                     android:layout_gravity="center"
-                    android:gravity="center"
-                    android:background="@drawable/shape_circle"
-                    android:layout_marginTop="5dp"
-                    android:layout_marginBottom="5dp"
                     android:layout_marginStart="20dp"
-                    android:layout_marginEnd="20dp"/>
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/shape_circle"
+                    android:gravity="center"
+                    android:text="="
+                    android:textColor="?attr/colorOnSecondary"
+                    android:textSize="@dimen/button_text_size_big" />
 
             </FrameLayout>
 
